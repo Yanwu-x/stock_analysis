@@ -1,0 +1,2 @@
+﻿data_file,rows,train_ratio,validation_ratio,test_ratio,target_definition,features_count,seed,probability_threshold,train_up_rate,train_start,train_end,validation_start,validation_end,test_start,test_end
+ashare_600519.csv,1500,0.7,0.10000000000000009,0.19999999999999996,Open[t+1] > Close[t],31,42,0.5,0.467444120505345,2020-08-03,2024-10-31,2024-11-01,2025-06-16,2025-06-17,2026-09-04

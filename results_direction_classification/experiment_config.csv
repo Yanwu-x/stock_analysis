@@ -1,0 +1,2 @@
+﻿data_file,rows,train_ratio,validation_ratio,test_ratio,past_feature_windows,features_count,seed,probability_threshold,train_up_rate,train_start,train_end,validation_start,validation_end,test_start,test_end
+ashare_600519.csv,1500,0.7,0.10000000000000009,0.19999999999999996,"lags 1,2,3,5,10; rolling 5,10,20",31,42,0.5,0.4684159378036929,2020-08-03,2024-10-31,2024-11-01,2025-06-16,2025-06-17,2026-09-04
