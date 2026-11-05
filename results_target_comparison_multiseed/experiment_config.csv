@@ -1,0 +1,2 @@
+﻿data_file,rows,train_rows,test_rows,train_start,train_end,test_start,test_end,train_ratio,past_days,epochs,batch_size,seeds,target_price,target_return,note
+ashare_600519.csv,1500,1200,300,2020-07-03,2025-06-16,2025-06-17,2026-09-04,0.8,90,100,32,"42,123,2026",Open[t+1] absolute price,(Open[t+1]-Open[t])/Open[t],Exploratory test period previously viewed during development.

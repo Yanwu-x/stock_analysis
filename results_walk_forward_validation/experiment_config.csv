@@ -1,0 +1,2 @@
+﻿data_file,rows,initial_train_size,test_window_size,folds,past_days,epochs,batch_size,seed,arima_order,target,previous_price_for_direction,arima_policy,note
+ashare_600519.csv,1500,900,150,4,90,100,32,42,"(5, 1, 0)",next trading day original Open,previous actual Open,fit once per fold; one-step forecast; append observed Open with refit=False,Expanding-window exploratory evaluation; test windows follow earlier windows chronologically. Prior development has viewed overlapping historical periods.
